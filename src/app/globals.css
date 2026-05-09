@@ -1,0 +1,121 @@
+:root {
+  --background: #ffffff;
+  --foreground: #111111;
+  --accent: #000000;
+  --secondary: #666666;
+  --border: #eaeaea;
+  --soft-bg: #f9f9f9;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  color: var(--accent);
+}
+
+section {
+  padding: 100px 0;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/* Minimalist Button */
+.btn {
+  display: inline-block;
+  padding: 12px 32px;
+  background: var(--accent);
+  color: white;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: opacity 0.2s;
+  cursor: pointer;
+  border: none;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+}
+
+/* Simple Navigation */
+nav {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 100;
+}
+
+/* Typography Scale */
+.text-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--secondary);
+  margin-bottom: 16px;
+  display: block;
+}
+
+.title-large {
+  font-size: 56px;
+  line-height: 1.1;
+  margin-bottom: 24px;
+}
+
+.title-medium {
+  font-size: 32px;
+  margin-bottom: 48px;
+}
+
+/* Grids */
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+@media (max-width: 768px) {
+  .grid-2, .grid-3 {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .title-large {
+    font-size: 40px;
+  }
+}

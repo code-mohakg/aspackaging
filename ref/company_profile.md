@@ -6,7 +6,9 @@ This document contains only the unique identifiers and specific business details
 
 ## 1. Identity & Contact
 *   **Company Name:** A.S. Packaging
-*   **Primary Phone:** +91 96195 31152
+*   **Viral Dedhia:** +91 96195 31152 (Primary/WhatsApp)
+*   **Bipin Dedhia:** +91 98202 59022
+*   **Email:** viraldedhia8@gmail.com
 *   **WhatsApp:** [Link to WhatsApp](https://api.whatsapp.com/send?phone=+919619531152&text=Hello%20A.S.%20Packaging)
 *   **Registered Address:** 
     S.No. 102 Near New T/F, Manichapada, Vasai Phata, Vasai East Taluka, Vasai, District Palghar

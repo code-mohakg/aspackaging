@@ -24,8 +24,19 @@ export default function Contact() {
         <div className="grid-2">
           <div>
             <div style={{ marginBottom: '40px' }}>
-              <h4 style={{ fontSize: '12px', color: '#999', marginBottom: '8px', textTransform: 'uppercase' }}>Phone</h4>
-              <p style={{ fontSize: '24px', fontWeight: 500 }}>+91 96195 31152</p>
+              <h4 style={{ fontSize: '12px', color: '#999', marginBottom: '16px', textTransform: 'uppercase' }}>Contact Persons</h4>
+              <div style={{ marginBottom: '20px' }}>
+                <p style={{ fontSize: '14px', color: '#666', marginBottom: '4px' }}>Viral Dedhia</p>
+                <p style={{ fontSize: '20px', fontWeight: 500 }}>+91 96195 31152</p>
+              </div>
+              <div>
+                <p style={{ fontSize: '14px', color: '#666', marginBottom: '4px' }}>Bipin Dedhia</p>
+                <p style={{ fontSize: '20px', fontWeight: 500 }}>+91 98202 59022</p>
+              </div>
+            </div>
+            <div style={{ marginBottom: '40px' }}>
+              <h4 style={{ fontSize: '12px', color: '#999', marginBottom: '8px', textTransform: 'uppercase' }}>Email Address</h4>
+              <p style={{ fontSize: '18px', fontWeight: 500 }}>viraldedhia8@gmail.com</p>
             </div>
             <div style={{ marginBottom: '40px' }}>
               <h4 style={{ fontSize: '12px', color: '#999', marginBottom: '8px', textTransform: 'uppercase' }}>WhatsApp</h4>

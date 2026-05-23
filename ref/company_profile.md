@@ -22,14 +22,18 @@ This document contains only the unique identifiers and specific business details
 *   **Brand Promises:**
     *   Direct manufacturing prices from the Mumbai unit.
     *   Double-wall 5-ply boxes specifically tested for **12-14 Kg** protection.
-    *   State-of-the-art **4-Color Printing** and **Foil Stamping** capabilities.
+    *   State-of-the-art **4-Color Printing**, **Offset**, and **Flexographic** capabilities.
+    *   Premium finishes: **Matte/Gloss Lamination**, **Spot UV**, **Embossing**, and **Foil Stamping**.
 
 ---
 
 ## 3. Specific Product Specialties
+*   **Box Types:** Corrugated boxes (3, 5, 7, 9 Ply), duplex board boxes, mono cartons, gift boxes, and specialty packaging.
+*   **Industrial Raw Material:** Corrugated sheets and rolls.
 *   **Fruit Specifics:** Specialized corrugated solutions for **Mango** and **Pomegranate** transport.
 *   **Bakery Focus:** "Tall cake boxes with window" and "Multi-purpose window cavity boxes" for sweets.
 *   **Industrial:** Corrugated boxes with integrated handles for heavy parcels.
+*   **Specialty:** Cosmetic packaging, printed packaging, and die-cut boxes.
 
 ---
 

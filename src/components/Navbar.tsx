@@ -15,6 +15,7 @@ export default function Navbar() {
         </Link>
         <div style={{ display: 'flex', gap: '32px', fontSize: '14px' }}>
           <Link href="#products">Products</Link>
+          <Link href="#portfolio">Portfolio</Link>
           <Link href="#about">About</Link>
           <Link href="#contact">Contact</Link>
         </div>
